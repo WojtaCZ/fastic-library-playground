@@ -1,0 +1,3 @@
+C:/Users/vvosahlo/cernbox/Documents/aurora-parser/build/CMakeFiles/aurora.dir
+C:/Users/vvosahlo/cernbox/Documents/aurora-parser/build/CMakeFiles/edit_cache.dir
+C:/Users/vvosahlo/cernbox/Documents/aurora-parser/build/CMakeFiles/rebuild_cache.dir

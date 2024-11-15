@@ -1,0 +1,3 @@
+[submodule "fastic-library"]
+	path = fastic-library
+	url = https://github.com/WojtaCZ/fastic-library.git

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/vvosahlo/cernbox/Documents/aurora-parser/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -IC:/Users/vvosahlo/cernbox/Documents/aurora-parser/src -IC:/Users/vvosahlo/cernbox/Documents/aurora-parser/fastic-library/inc -g -std=gnu++23 -fno-diagnostics-color -o CMakeFiles\\aurora.dir\\src\\main.cpp.obj -c C:\\Users\\vvosahlo\\cernbox\\Documents\\aurora-parser\\src\\main.cpp",
+  "file": "C:\\Users\\vvosahlo\\cernbox\\Documents\\aurora-parser\\src\\main.cpp",
+  "output": "CMakeFiles\\aurora.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/vvosahlo/cernbox/Documents/aurora-parser/build",
+  "command": "C:\\Strawberry\\c\\bin\\g++.exe -IC:/Users/vvosahlo/cernbox/Documents/aurora-parser/src -IC:/Users/vvosahlo/cernbox/Documents/aurora-parser/fastic-library/inc -g -std=gnu++23 -fno-diagnostics-color -o CMakeFiles\\aurora.dir\\fastic-library\\src\\aurora.cpp.obj -c C:\\Users\\vvosahlo\\cernbox\\Documents\\aurora-parser\\fastic-library\\src\\aurora.cpp",
+  "file": "C:\\Users\\vvosahlo\\cernbox\\Documents\\aurora-parser\\fastic-library\\src\\aurora.cpp",
+  "output": "CMakeFiles\\aurora.dir\\fastic-library\\src\\aurora.cpp.obj"
+}
+]
